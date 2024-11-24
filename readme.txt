@@ -11,7 +11,7 @@ Providing visual insights into the distribution of Netflix content across differ
 Allowing users to make data-driven decisions for release scheduling based on historical patterns.
 The project showcases the ability to process large datasets, create feature engineering (e.g., identifying seasons based on release dates), and present the results in an accessible and interactive format through Streamlit.
 
-![Netflix App Screenshot](app_screenshot.png)
+![Netflix App Screenshot](/Users/adityasrivatsav/Documents/GitHub/Netflix-Release-Date-Optimization-for-Maximum-Viewership/app_screenshot.png)
 
 Project Overflow
 This project follows a structured workflow to achieve its objectives:
