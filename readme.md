@@ -34,7 +34,7 @@ The Netflix Release Date Optimization project focuses on analyzing the release p
   - Genres (e.g., Action, Comedy)
   - Release Year
 - **Performance**:
-  - Achieved **99.94% accuracy** on the testing data.
+  - Achieved **95.94% accuracy** on the testing data.
   - The model is capable of predicting seasons like Winter, Spring, Summer, and Fall based on title attributes.
 
 ### 4. Insights and Trends
@@ -101,7 +101,7 @@ The Netflix Release Date Optimization project focuses on analyzing the release p
 ### Model Details
 - **Model**: Random Forest Classifier
 - **Target**: Optimal release season (Winter, Spring, Summer, Fall)
-- **Accuracy**: **99.94%**
+- **Accuracy**: **95.94%**
 
 
 ## Key Insights
