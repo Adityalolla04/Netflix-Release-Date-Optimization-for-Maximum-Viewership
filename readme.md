@@ -79,7 +79,7 @@ The Netflix Release Date Optimization project focuses on analyzing the release p
 
 3. **Machine Learning**:
    - Developed a robust Random Forest model to predict the optimal release season for new titles.
-   - The model achieved an exceptionally high accuracy of **99.94%**.
+   - The model achieved an exceptionally high accuracy of **96.94%**.
 
 4. **User Interaction**:
    - The project is integrated into a **Streamlit app**, providing an interactive interface for filtering titles and visualizing insights.
